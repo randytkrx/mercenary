@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mercenary/static/css/main.85affa5d.css",
-    "main.js": "/mercenary/static/js/main.be542fcb.js",
+    "main.js": "/mercenary/static/js/main.16d96f3a.js",
     "static/media/lava-bg.png": "/mercenary/static/media/lava-bg.3ac1635c3391d8449330.png",
     "index.html": "/mercenary/index.html",
     "main.85affa5d.css.map": "/mercenary/static/css/main.85affa5d.css.map",
-    "main.be542fcb.js.map": "/mercenary/static/js/main.be542fcb.js.map"
+    "main.16d96f3a.js.map": "/mercenary/static/js/main.16d96f3a.js.map"
   },
   "entrypoints": [
     "static/css/main.85affa5d.css",
-    "static/js/main.be542fcb.js"
+    "static/js/main.16d96f3a.js"
   ]
 }
