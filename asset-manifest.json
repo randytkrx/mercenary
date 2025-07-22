@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mercenary/static/css/main.85affa5d.css",
+    "main.js": "/mercenary/static/js/main.6ae12b6e.js",
+    "static/media/lava-bg.png": "/mercenary/static/media/lava-bg.3ac1635c3391d8449330.png",
+    "index.html": "/mercenary/index.html",
+    "main.85affa5d.css.map": "/mercenary/static/css/main.85affa5d.css.map",
+    "main.6ae12b6e.js.map": "/mercenary/static/js/main.6ae12b6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85affa5d.css",
+    "static/js/main.6ae12b6e.js"
+  ]
+}
