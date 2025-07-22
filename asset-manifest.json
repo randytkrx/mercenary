@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.f41c5caf.css",
-    "main.js": "/static/js/main.2e0fe15c.js",
+    "main.js": "/static/js/main.b56966a4.js",
     "static/media/lava-bg.png": "/static/media/lava-bg.3ac1635c3391d8449330.png",
     "index.html": "/index.html",
     "main.f41c5caf.css.map": "/static/css/main.f41c5caf.css.map",
-    "main.2e0fe15c.js.map": "/static/js/main.2e0fe15c.js.map"
+    "main.b56966a4.js.map": "/static/js/main.b56966a4.js.map"
   },
   "entrypoints": [
     "static/css/main.f41c5caf.css",
-    "static/js/main.2e0fe15c.js"
+    "static/js/main.b56966a4.js"
   ]
 }
